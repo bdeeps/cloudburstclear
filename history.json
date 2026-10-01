@@ -1,0 +1,1142 @@
+{
+  "title": "The history of understanding cloudbursts",
+  "tagline": "From a word for a bursting cloud to radars on Himalayan ridges: how people learned what a cloudburst really is, and how to get out of its way.",
+  "intro": "For two centuries people have pictured a cloud splitting open like a bag of water. Rain gauges, aircraft and radar told a different story: rising air holds the rain up, and a storm that stays over one valley can drop a season's water in an hour. Floods at Hyderabad, Big Thompson, Mumbai, Leh and Kedarnath showed what that means on the ground. India now defines a cloudburst by a number, watches the mountains with Doppler radar, and can send a warning to every phone in a valley.",
+  "eras": [
+    {
+      "id": "early",
+      "name": "A word and a rain gauge",
+      "from": 1441,
+      "to": 1940,
+      "color": "#c49bff",
+      "summary": "People name the cloudburst before they understand it, and learn to measure rain the same way everywhere."
+    },
+    {
+      "id": "science",
+      "name": "Inside the storm",
+      "from": 1940,
+      "to": 2000,
+      "color": "#ffb547",
+      "summary": "Radar and aircraft show how a thunderstorm works, record downpours are measured, and canyon floods teach people to climb."
+    },
+    {
+      "id": "india",
+      "name": "Lessons from Mumbai and the Himalaya",
+      "from": 2000,
+      "to": 2019,
+      "color": "#8ef0ff",
+      "summary": "Mumbai, Leh and Kedarnath show how local and how deadly extreme rain can be, and Indian scientists start to count cloudbursts."
+    },
+    {
+      "id": "warn",
+      "name": "Radars and warnings",
+      "from": 2020,
+      "to": 2026,
+      "color": "#a3e635",
+      "summary": "Doppler radars go up in the mountains, flash flood guidance and phone alerts begin, and each new disaster tests what 'cloudburst' means."
+    }
+  ],
+  "events": [
+    {
+      "year": 1441,
+      "date": "1441 and 1442",
+      "era": "early",
+      "art": "waterdrop",
+      "key": false,
+      "title": "Korea measures the rain",
+      "who": "King Sejong's court; the idea is credited to Crown Prince Munjong",
+      "where": "Seoul",
+      "country": "Korea",
+      "text": "In 1441 the Joseon court began catching rain in a standing cylinder and measuring its depth. It was called the cheugugi. By 1442 a standard size had been set and gauges were sent out to the provinces.",
+      "why": "You cannot say how hard it rained until everyone measures rain the same way.",
+      "box": "gauge",
+      "sources": [
+        4,
+        5
+      ]
+    },
+    {
+      "year": 1817,
+      "date": "c. 1817",
+      "era": "early",
+      "art": "word",
+      "key": true,
+      "title": "The word 'cloudburst' appears",
+      "who": "",
+      "where": "United States and Britain",
+      "country": "USA",
+      "text": "The word 'cloud-burst' turns up in American English by about 1817, by one dictionary's count. The Oxford English Dictionary's earliest example is from an English newspaper in 1836, and Merriam-Webster gives 1869. German has the same picture in its word Wolkenbruch. People imagined a cloud as a bag of water that splits open.",
+      "why": "The name stuck, but the picture is wrong: a cloud is not a bag, and nothing bursts.",
+      "box": "myth",
+      "sources": [
+        1,
+        2,
+        3,
+        0
+      ]
+    },
+    {
+      "year": 1860,
+      "date": "1860",
+      "era": "early",
+      "art": "quill",
+      "key": false,
+      "title": "A country of volunteer rain watchers",
+      "who": "George James Symons",
+      "where": "London",
+      "country": "England",
+      "text": "George Symons published the first volume of British Rainfall in 1860, with readings from a small group of observers. He kept asking for volunteers and testing gauges, and the network grew into the British Rainfall Organisation, with thousands of gauges across the British Isles.",
+      "why": "A cloudburst is small. Only a dense net of gauges has a chance of catching one.",
+      "box": "gauge",
+      "sources": [
+        6,
+        7
+      ]
+    },
+    {
+      "year": 1889,
+      "date": "7 July 1889",
+      "era": "early",
+      "art": "waterdrop",
+      "key": false,
+      "title": "206 mm in 20 minutes",
+      "who": "",
+      "where": "Curtea de Arges",
+      "country": "Romania",
+      "text": "A storm over the town of Curtea de Arges is listed with 206 mm of rain in 20 minutes. More than a century later it is still the greatest 20 minute fall on the US National Weather Service's world list.",
+      "why": "It showed how much water a single storm can drop on one spot in the time of a school break.",
+      "box": "gauge",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 1908,
+      "date": "28 September 1908",
+      "era": "early",
+      "art": "wave",
+      "key": true,
+      "title": "The Musi floods Hyderabad",
+      "who": "M. Visvesvaraya",
+      "where": "Hyderabad",
+      "country": "India",
+      "text": "After two days of very heavy rain, and a downpour at dawn that many accounts call a cloudburst, small reservoirs upstream gave way and the Musi river rose through the old city. About 15,000 people are commonly said to have died, and some accounts give higher figures. Reports of the rainfall differ: one widely quoted figure is about 17 inches (430 mm) in 36 hours. The Nizam's government asked the engineer M. Visvesvaraya for a plan. He reported in 1909, and two flood reservoirs followed: Osman Sagar in 1920 and Himayat Sagar in 1927.",
+      "why": "It is the flood that made an Indian city plan for extreme rain, with reservoirs upstream and a rebuilt riverfront.",
+      "box": "stream",
+      "sources": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "year": 1941,
+      "date": "20 February 1941",
+      "era": "science",
+      "art": "telescope",
+      "key": false,
+      "title": "Radar sees a shower",
+      "who": "British radar operators",
+      "where": "English coast",
+      "country": "England",
+      "text": "Wartime radar was built to find aircraft, but rain kept showing up on the screens. On 20 February 1941 a 10 cm radar on the English coast tracked a shower about 7 miles out to sea. It is the earliest well recorded case of radar following rain.",
+      "why": "Radar can watch rain falling between the gauges, which is where most cloudbursts happen.",
+      "box": "forecast",
+      "sources": [
+        18,
+        17
+      ]
+    },
+    {
+      "year": 1946,
+      "date": "1946 and 1947, report 1949",
+      "era": "science",
+      "art": "plane",
+      "key": true,
+      "title": "The Thunderstorm Project",
+      "who": "Horace Byers and Roscoe Braham",
+      "where": "Orlando, Florida, and Wilmington, Ohio",
+      "country": "USA",
+      "text": "Pilots flew radar-equipped P-61 aircraft straight through thunderstorms, five at a time, stacked at different heights. Horace Byers led the project and Roscoe Braham was its senior analyst. Their 1949 report showed that a storm is made of cells, and each cell lives through three stages: a growing stage that is all updraft, a mature stage with heavy rain and a downdraft, and a fading stage.",
+      "why": "It replaced the bursting bag with the real story: rising air holds the water up, and the rain comes down when the updraft can no longer carry it.",
+      "box": "myth",
+      "sources": [
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "year": 1947,
+      "date": "22 June 1947",
+      "era": "science",
+      "art": "waterdrop",
+      "key": true,
+      "title": "Holt, Missouri: 305 mm in 42 minutes",
+      "who": "",
+      "where": "Holt, Missouri",
+      "country": "USA",
+      "text": "On a Sunday evening a line of storms dropped about 12 inches (305 mm) of rain on the small town of Holt in 42 minutes. The World Meteorological Organization lists it as the greatest rainfall known within one hour. The figure came from a careful survey after the storm, not from an automatic gauge.",
+      "why": "It is the yardstick: about three times the rate that India's weather department uses to define a cloudburst.",
+      "box": "gauge",
+      "sources": [
+        9,
+        8,
+        23,
+        24
+      ]
+    },
+    {
+      "year": 1956,
+      "date": "4 July 1956 and 26 November 1970",
+      "era": "science",
+      "art": "waterdrop",
+      "key": false,
+      "title": "The wettest minute",
+      "who": "",
+      "where": "Unionville, Maryland, and Barot, Guadeloupe",
+      "country": "USA",
+      "text": "A gauge at Unionville in Maryland recorded 31.2 mm of rain in one minute on 4 July 1956. The World Meteorological Organization lists it as the world record for one minute. The US National Weather Service list also carries 38 mm in one minute at Barot, Guadeloupe, on 26 November 1970.",
+      "why": "Rain can fall, for a moment, more than 15 times faster than the cloudburst threshold. It just cannot keep that up.",
+      "box": "gauge",
+      "sources": [
+        9,
+        8,
+        10
+      ]
+    },
+    {
+      "year": 1970,
+      "date": "20 July 1970",
+      "era": "science",
+      "art": "mountain",
+      "key": false,
+      "title": "The Alaknanda flood",
+      "who": "",
+      "where": "Alaknanda valley, between Joshimath and Chamoli, Uttarakhand",
+      "country": "India",
+      "text": "A flood on the night of 20 July 1970 has been attributed to a cloudburst on the mountain front of the Alaknanda valley. Landslides dammed side streams and then broke. The roadside settlement of Belakuchi was washed away along with a convoy of about 30 buses, and what was left of the Gohna lake of 1894 was wiped out. Later studies linked the damage to heavy commercial tree felling on the slopes.",
+      "why": "Villagers drew the link between bare slopes and floods, and the Chipko movement began in the same valley in 1973.",
+      "box": "stream",
+      "sources": [
+        25,
+        26
+      ]
+    },
+    {
+      "year": 1972,
+      "date": "9 and 10 June 1972",
+      "era": "science",
+      "art": "wave",
+      "key": false,
+      "title": "The Rapid City flood",
+      "who": "",
+      "where": "Rapid City and the Black Hills, South Dakota",
+      "country": "USA",
+      "text": "Thunderstorms stalled against the Black Hills and dropped as much as 15 inches (380 mm) of rain in about six hours near Nemo. Rapid Creek rose through the city in the night and Canyon Lake Dam failed. The Red Cross counted 238 dead and about 3,000 injured.",
+      "why": "Rapid City turned its floodplain into parkland so that people would not live in the river's path again.",
+      "box": "stream",
+      "sources": [
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "year": 1975,
+      "date": "3 July 1975",
+      "era": "science",
+      "art": "waterdrop",
+      "key": false,
+      "title": "401 mm in one hour",
+      "who": "",
+      "where": "Shangdi, Inner Mongolia",
+      "country": "China",
+      "text": "The US National Weather Service's world list gives 401 mm of rain in 60 minutes at Shangdi in Inner Mongolia. It is the largest one hour figure on that list. The World Meteorological Organization's own archive still names Holt for the one hour record.",
+      "why": "Record lists differ because extreme rain at a single point is so hard to measure and to check.",
+      "box": "gauge",
+      "sources": [
+        8,
+        9
+      ]
+    },
+    {
+      "year": 1976,
+      "date": "31 July 1976",
+      "era": "science",
+      "art": "mountain",
+      "key": true,
+      "title": "The Big Thompson Canyon flood",
+      "who": "",
+      "where": "Big Thompson Canyon, Colorado",
+      "country": "USA",
+      "text": "A thunderstorm sat almost still over the upper canyon on a holiday evening. About 7.5 inches (190 mm) fell in roughly an hour, and about 12 inches (300 mm) in a few hours. A surge of water ran down the narrow canyon and 144 people died. Researchers found that many who survived had left their cars and climbed the hillside.",
+      "why": "Colorado put up 'Climb to safety' signs in its canyons: in a flash flood you go up, not along the road.",
+      "box": "safe",
+      "sources": [
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "year": 1992,
+      "date": "1992 to 1997",
+      "era": "science",
+      "art": "pixels",
+      "key": false,
+      "title": "A Doppler radar net over a whole country",
+      "who": "US National Weather Service",
+      "where": "Sterling, Virginia, and about 160 sites",
+      "country": "USA",
+      "text": "The first NEXRAD Doppler weather radar for daily forecasting was installed at Sterling, Virginia, on 12 June 1992. The last of the original network went in at North Webster, Indiana, on 30 August 1997. About 160 radars now cover the country and estimate rainfall every few minutes.",
+      "why": "Forecasters could watch a storm stall over one valley and warn people downstream within minutes.",
+      "box": "forecast",
+      "sources": [
+        33,
+        34
+      ]
+    },
+    {
+      "year": 1996,
+      "date": "December 1996",
+      "era": "science",
+      "art": "scroll",
+      "key": true,
+      "title": "The ingredients of a flash flood",
+      "who": "Charles Doswell, Harold Brooks and Robert Maddox",
+      "where": "Norman, Oklahoma",
+      "country": "USA",
+      "text": "Three American meteorologists set out a simple rule in the journal Weather and Forecasting. The rain a place gets is the rain rate multiplied by how long it lasts. So the heaviest totals come where rain is intense and the storm stays put, or where new cells keep passing over the same spot. Forecasters should look for the ingredients: moisture, rising air and slow storm movement.",
+      "why": "It gave forecasters everywhere the same checklist, and it explains why a stalled storm is the dangerous one.",
+      "box": "forecast",
+      "sources": [
+        35,
+        36
+      ]
+    },
+    {
+      "year": 2005,
+      "date": "26 July 2005",
+      "era": "india",
+      "art": "building",
+      "key": true,
+      "title": "Mumbai: 944 mm in a day",
+      "who": "",
+      "where": "Santacruz, Mumbai",
+      "country": "India",
+      "text": "The Santacruz observatory recorded 944 mm of rain in the 24 hours to 8:30 the next morning. Between 2:30 and 3:30 in the afternoon the rate passed 190 mm in an hour, well above the 100 mm mark for a cloudburst. Colaba, about 27 km away, had only 73 mm. Almost 419 people died in the city, and about 1,000 across Maharashtra.",
+      "why": "It showed that cloudburst-scale rain is not only a mountain problem: the city's old drains were built for about 25 mm an hour.",
+      "box": "gauge",
+      "sources": [
+        38,
+        39
+      ]
+    },
+    {
+      "year": 2010,
+      "date": "Night of 5 to 6 August 2010",
+      "era": "india",
+      "art": "mountain",
+      "key": true,
+      "title": "Leh, Ladakh",
+      "who": "",
+      "where": "Leh and nearby villages, Ladakh",
+      "country": "India",
+      "text": "Around midnight a short, violent storm hit the bare slopes above Leh, a cold desert that normally gets about 100 mm of rain in a year. Mud and boulders ran down the stream beds into Choglamsar and other villages. The official count is at least 255 dead, and some studies put the toll near 600. The airport gauge caught only 12.8 mm. Scientists who read the damage estimated at least 75 mm in 30 minutes in a band about 6 km wide, and one study estimated up to about 250 mm in an hour.",
+      "why": "The storm missed the only gauge, so its size had to be worked out afterwards from the scars it left.",
+      "box": "mountain",
+      "sources": [
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "year": 2013,
+      "date": "16 and 17 June 2013",
+      "era": "india",
+      "art": "mountain",
+      "key": true,
+      "title": "Kedarnath",
+      "who": "",
+      "where": "Kedarnath, Mandakini valley, Uttarakhand",
+      "country": "India",
+      "text": "The monsoon arrived early and met a western weather system over Uttarakhand. A research station at Chorabari glacier, above Kedarnath, measured 325 mm of rain in 24 hours. On the morning of 17 June the loose moraine bank holding back Chorabari lake gave way and a second surge hit the temple town. The state government said in July 2013 that more than 5,700 people were presumed dead, and later counts are above 6,000.",
+      "why": "It was widely called a cloudburst, but it was days of extreme rain over a large area plus a lake breach: the label hides the cause.",
+      "box": "stream",
+      "sources": [
+        44,
+        46,
+        43,
+        45
+      ]
+    },
+    {
+      "year": 2017,
+      "date": "May 2017",
+      "era": "india",
+      "art": "scroll",
+      "key": false,
+      "title": "A review of Himalayan cloudbursts",
+      "who": "A. P. Dimri and seven co-authors",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "A. P. Dimri and colleagues gathered what was known about cloudbursts in the Indian Himalaya in the journal Earth-Science Reviews. They described how moist monsoon air is forced up steep slopes, how storms can be trapped in narrow valleys, and how few instruments there are where these storms strike.",
+      "why": "It set out plainly how little is measured, and what radars and gauges the mountains need.",
+      "box": "mountain",
+      "sources": [
+        47,
+        51
+      ]
+    },
+    {
+      "year": 2018,
+      "date": "July 2018",
+      "era": "india",
+      "art": "scales",
+      "key": false,
+      "title": "The 'mini cloudburst' gets a name",
+      "who": "N. R. Deshpande, D. R. Kothawale, V. Kumar and J. R. Kulkarni",
+      "where": "Indian Institute of Tropical Meteorology, Pune",
+      "country": "India",
+      "text": "India's weather department calls it a cloudburst when a station gets 10 cm (100 mm) of rain in one hour. Scientists at IITM Pune studied hourly rain from 126 stations for 1969 to 2015. They added a second class, the mini cloudburst: 5 cm or more in two hours in a row. They counted about 200 of these a year, with a rising trend along the Himalayan foothills and the west coast.",
+      "why": "A strict line misses many dangerous storms, so a second, lower line helps to count and study them.",
+      "box": "gauge",
+      "sources": [
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "year": 2020,
+      "date": "23 October 2020",
+      "era": "warn",
+      "art": "computer",
+      "key": false,
+      "title": "Flash flood guidance for South Asia",
+      "who": "India Meteorological Department and the World Meteorological Organization",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "India launched the South Asia Flash Flood Guidance System, serving Bangladesh, Bhutan, India, Nepal and Sri Lanka. It combines rain estimates and soil wetness for small watersheds on a 4 km grid. It gives a flash flood threat for the next 6 hours and a risk for the next 24.",
+      "why": "The warning is about the stream, not only the sky: the same rain is far more dangerous on ground that is already soaked.",
+      "box": "forecast",
+      "sources": [
+        52,
+        53
+      ]
+    },
+    {
+      "year": 2021,
+      "date": "15 January 2021",
+      "era": "warn",
+      "art": "telescope",
+      "key": false,
+      "title": "Doppler radars for the Himalaya",
+      "who": "India Meteorological Department",
+      "where": "Mukteshwar, Uttarakhand, and Kufri, Himachal Pradesh",
+      "country": "India",
+      "text": "On the weather department's 146th foundation day, Doppler radars at Mukteshwar and Kufri were dedicated to the nation. More followed: Jammu on 5 September 2021, Leh on 14 January 2022, and on 15 January 2023 Surkanda Devi in Uttarakhand, Murari Devi and Jot in Himachal Pradesh, and Banihal Top in Jammu and Kashmir. Lansdowne in Uttarakhand was added on 23 February 2024. Each of the small mountain radars sees about 100 km around it.",
+      "why": "A gauge sees one point. A radar can see a storm building over a valley that has no gauge at all.",
+      "box": "forecast",
+      "sources": [
+        57,
+        56,
+        58,
+        59,
+        60,
+        61
+      ]
+    },
+    {
+      "year": 2021,
+      "date": "7 February 2021",
+      "era": "warn",
+      "art": "ice",
+      "key": false,
+      "title": "Chamoli: not a cloudburst",
+      "who": "",
+      "where": "Ronti Peak, Rishiganga and Dhauliganga valleys, Uttarakhand",
+      "country": "India",
+      "text": "On a clear winter morning a flood of water, ice and rock tore down the Rishiganga valley and wrecked two hydropower projects. More than 200 people were killed or are missing. A study in Science by a large international team showed that about 27 million cubic metres of rock and glacier ice had fallen from Ronti Peak.",
+      "why": "Not every sudden mountain flood starts with rain, so the cause has to be checked before it is named.",
+      "sources": [
+        54,
+        55
+      ]
+    },
+    {
+      "year": 2022,
+      "date": "8 July 2022",
+      "era": "warn",
+      "art": "person",
+      "key": true,
+      "title": "Amarnath: a flood without a 'cloudburst'",
+      "who": "",
+      "where": "Near the Amarnath cave shrine, Jammu and Kashmir",
+      "country": "India",
+      "text": "At about 5:30 in the evening water and debris swept through a camp of pilgrims below the cave. At least 16 people died and dozens were reported missing. The weather department said its station at the shrine had measured 31 mm between 4:30 and 6:30, far short of 100 mm in an hour. It said the flood was probably caused by very local rain higher up the mountain.",
+      "why": "Light rain where you stand tells you little about the stream beside you, which is fed from slopes above.",
+      "box": "gauge",
+      "sources": [
+        63,
+        62,
+        64
+      ]
+    },
+    {
+      "year": 2023,
+      "date": "July and August 2023",
+      "era": "warn",
+      "art": "road",
+      "key": false,
+      "title": "Himachal Pradesh's monsoon",
+      "who": "",
+      "where": "Shimla, Solan, Kullu and Mandi districts, Himachal Pradesh",
+      "country": "India",
+      "text": "Two spells of extreme rain, in early July and in mid August, set off floods and hundreds of landslides. On 14 August a slope gave way at Summer Hill in Shimla and buried the Shiv Bawdi temple: 20 people died. The same day a reported cloudburst at Jadon village in Solan killed seven. The state's emergency centre counted 428 deaths between 24 June and mid September.",
+      "why": "Most of the lives were lost to slopes and streams, not to the rain itself: where people build decides the toll.",
+      "box": "safe",
+      "sources": [
+        65,
+        67,
+        68,
+        66
+      ]
+    },
+    {
+      "year": 2023,
+      "date": "3 and 4 October 2023",
+      "era": "warn",
+      "art": "ice",
+      "key": false,
+      "title": "South Lhonak: a lake, not a cloud",
+      "who": "",
+      "where": "South Lhonak lake and the Teesta valley, Sikkim",
+      "country": "India",
+      "text": "Around midnight the moraine bank of South Lhonak glacial lake failed, and a flood ran down the Teesta. It destroyed the dam of the 1,200 MW Teesta III hydropower project at Chungthang. Early reports spoke of a cloudburst. Studies since have traced it to a collapse of frozen moraine into the lake, which sent a wave over the bank.",
+      "why": "A glacial lake outburst and a cloudburst look alike from downstream, but they need different watching.",
+      "sources": [
+        69,
+        70
+      ]
+    },
+    {
+      "year": 2025,
+      "date": "5 August 2025",
+      "era": "warn",
+      "art": "mountain",
+      "key": false,
+      "title": "Dharali",
+      "who": "",
+      "where": "Dharali, Uttarkashi district, Uttarakhand",
+      "country": "India",
+      "text": "At about 1:30 in the afternoon a wall of mud and rock came down the Kheer Gad stream and buried much of Dharali's market. Early official counts were low, with dozens missing: later reports say about 70 people are dead or presumed dead. Officials first called it a cloudburst. Nearby gauges had recorded only light rain, and scientists are still studying the cause. One reading is that rain set off slides in loose glacial debris high up, which turned into a debris flow.",
+      "why": "The market stood on the fan of debris that the stream itself had built: the stream came back to it.",
+      "box": "stream",
+      "sources": [
+        71,
+        72,
+        73,
+        74
+      ]
+    },
+    {
+      "year": 2025,
+      "date": "14 August 2025",
+      "era": "warn",
+      "art": "person",
+      "key": false,
+      "title": "Chashoti, Kishtwar",
+      "who": "",
+      "where": "Chashoti (also spelled Chositi), Kishtwar district, Jammu and Kashmir",
+      "country": "India",
+      "text": "At about 11:30 in the morning a flash flood reported as a cloudburst hit the last roadside village on the Machail Mata pilgrimage route. A community kitchen full of pilgrims was swept away. Counts by officials rose to at least 65 dead, with dozens more missing. There was no gauge on the slope above, so the rain rate itself is not known.",
+      "why": "Pilgrim camps sit beside mountain streams in the peak of the monsoon, which is exactly where and when flash floods come.",
+      "box": "safe",
+      "sources": [
+        76,
+        75,
+        77
+      ]
+    },
+    {
+      "year": 2026,
+      "date": "2 May 2026",
+      "era": "warn",
+      "art": "phone",
+      "key": false,
+      "title": "Alerts that reach every phone in an area",
+      "who": "Department of Telecommunications, C-DOT and NDMA",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "India launched a cell broadcast alert system with a nationwide test message. It is built by C-DOT and joined to SACHET, the disaster authority's alert platform, which uses the international Common Alerting Protocol and had already sent billions of SMS warnings. A cell broadcast goes to every phone in the chosen area at once and sounds even on silent.",
+      "why": "A cloudburst warning has minutes to work, so it has to reach people without anyone dialling a number.",
+      "box": "safe",
+      "sources": [
+        78,
+        79,
+        80
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "First standard rain gauge used across a country",
+      "value": "1441 to 1442",
+      "who": "Joseon court under King Sejong, Korea"
+    },
+    {
+      "label": "Earliest known use of the word 'cloudburst' (dictionaries differ)",
+      "value": "c. 1817",
+      "who": "American English"
+    },
+    {
+      "label": "First volume of British Rainfall, from a volunteer gauge network",
+      "value": "1860",
+      "who": "George James Symons, England"
+    },
+    {
+      "label": "First well recorded tracking of rain by radar",
+      "value": "20 February 1941",
+      "who": "Radar operators on the English coast"
+    },
+    {
+      "label": "First large storm study built around aircraft and radar",
+      "value": "1946 to 1947",
+      "who": "The Thunderstorm Project, USA"
+    },
+    {
+      "label": "The 'ingredients' method for flash flood forecasting",
+      "value": "1996",
+      "who": "Charles Doswell, Harold Brooks and Robert Maddox, USA"
+    },
+    {
+      "label": "The term 'mini cloudburst'",
+      "value": "2018",
+      "who": "N. R. Deshpande and colleagues, IITM Pune, India"
+    },
+    {
+      "label": "First flash flood guidance system for South Asia",
+      "value": "23 October 2020",
+      "who": "India Meteorological Department with WMO"
+    }
+  ],
+  "people": [
+    {
+      "name": "George James Symons",
+      "life": "1838 – 1900",
+      "role": "Meteorologist",
+      "from": "England",
+      "note": "Built a volunteer network of rain gauges across the British Isles and published its readings every year from 1860."
+    },
+    {
+      "name": "M. Visvesvaraya",
+      "life": "1861 – 1962",
+      "role": "Civil engineer",
+      "from": "India",
+      "note": "Studied the 1908 Musi flood for the Nizam's government and proposed the reservoirs that became Osman Sagar and Himayat Sagar."
+    },
+    {
+      "name": "Horace R. Byers",
+      "life": "1906 – 1998",
+      "role": "Meteorologist, University of Chicago",
+      "from": "USA",
+      "note": "Directed the Thunderstorm Project, which worked out the life cycle of a storm cell."
+    },
+    {
+      "name": "Roscoe R. Braham Jr.",
+      "life": "1921 – 2017",
+      "role": "Cloud physicist, University of Chicago",
+      "from": "USA",
+      "note": "Senior analyst of the Thunderstorm Project and co-author of its 1949 report."
+    },
+    {
+      "name": "Charles A. Doswell III",
+      "life": "1945 – 2025",
+      "role": "Severe storms meteorologist",
+      "from": "USA",
+      "note": "Lead author of the 1996 paper that taught forecasters to think of flash floods as rain rate multiplied by duration."
+    },
+    {
+      "name": "A. P. Dimri",
+      "life": "active today",
+      "role": "Atmospheric scientist",
+      "from": "India",
+      "note": "Led the 2017 review of cloudbursts in the Indian Himalaya and co-wrote a study of the 2010 Leh storm."
+    },
+    {
+      "name": "N. R. Deshpande",
+      "life": "active today",
+      "role": "Climate scientist, Indian Institute of Tropical Meteorology",
+      "from": "India",
+      "note": "Lead author of the 2018 study that counted India's cloudbursts and named the mini cloudburst."
+    }
+  ],
+  "series": [
+    {
+      "id": "bursts",
+      "title": "Rain measured in an hour or less in this story",
+      "unit": "mm",
+      "log": false,
+      "after": "india",
+      "caption": "Five measured or surveyed bursts, each lasting an hour or less. India's weather department calls 100 mm in an hour a cloudburst.",
+      "points": [
+        {
+          "year": 1889,
+          "value": 206,
+          "label": "Curtea de Arges, Romania: 206 mm in 20 minutes"
+        },
+        {
+          "year": 1947,
+          "value": 305,
+          "label": "Holt, Missouri: 305 mm in 42 minutes"
+        },
+        {
+          "year": 1975,
+          "value": 401,
+          "label": "Shangdi, Inner Mongolia: 401 mm in 1 hour"
+        },
+        {
+          "year": 1976,
+          "value": 190,
+          "label": "Big Thompson, Colorado: about 190 mm in about 1 hour"
+        },
+        {
+          "year": 2005,
+          "value": 190,
+          "label": "Santacruz, Mumbai: just over 190 mm in 1 hour"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "India's weather department has a one-line test: if a station gets 10 cm of rain in one hour, it is a cloudburst.",
+    "On 26 July 2005 Santacruz in Mumbai recorded 944 mm of rain in 24 hours. Colaba, about 27 km away, recorded 73 mm.",
+    "The wettest minute in the World Meteorological Organization's archive is 31.2 mm, at Unionville, Maryland, in 1956.",
+    "Leh normally gets about 100 mm of rain in a whole year. In 2010 its airport gauge recorded just 12.8 mm while a storm a few kilometres away destroyed villages.",
+    "At the Amarnath shrine in 2022 the gauge showed 31 mm in two hours, yet a deadly flood came down the stream from higher up.",
+    "After the 1976 Big Thompson flood, Colorado put up road signs in its canyons that say: Climb to safety."
+  ],
+  "sources": [
+    {
+      "title": "Cloudburst",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cloudburst"
+    },
+    {
+      "title": "Cloud-burst: etymology, origin and meaning",
+      "publisher": "Online Etymology Dictionary",
+      "url": "https://www.etymonline.com/word/cloud-burst"
+    },
+    {
+      "title": "cloudburst, n.",
+      "publisher": "Oxford English Dictionary",
+      "url": "https://www.oed.com/dictionary/cloudburst_n"
+    },
+    {
+      "title": "Cloudburst: definition and first known use",
+      "publisher": "Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/cloudburst"
+    },
+    {
+      "title": "Cheugugi (Korean rain gauge)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ch%27%C5%ADgugi"
+    },
+    {
+      "title": "What the world can learn from Korea's 15th-century rain gauge",
+      "publisher": "PreventionWeb (UNDRR)",
+      "url": "https://www.preventionweb.net/news/what-world-can-learn-koreas-15th-century-rain-gauge"
+    },
+    {
+      "title": "George James Symons",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_James_Symons"
+    },
+    {
+      "title": "George James Symons, F.R.S.",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/142244c0"
+    },
+    {
+      "title": "World record point precipitation measurements",
+      "publisher": "US National Weather Service, Hydrometeorological Design Studies Center",
+      "url": "https://www.weather.gov/owp/hdsc_world_record"
+    },
+    {
+      "title": "Records of weather and climate extremes (table, January 2024)",
+      "publisher": "World Meteorological Organization",
+      "url": "https://wmo.int/sites/default/files/2024-01/Table_Extreme_Records_30Jan2024.pdf"
+    },
+    {
+      "title": "World Weather and Climate Extremes Archive",
+      "publisher": "World Meteorological Organization",
+      "url": "https://wmo.int/world-records-weather-and-climate-extremes"
+    },
+    {
+      "title": "Great Musi Flood of 1908",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Great_Musi_Flood_of_1908"
+    },
+    {
+      "title": "Great Musi Flood: remembering how the Musi drowned Hyderabad in 1908",
+      "publisher": "Telangana Today",
+      "url": "https://telanganatoday.com/great-musi-flood-remembering-how-ferocious-musi-drowned-hyderabad-in-1908"
+    },
+    {
+      "title": "How Hyderabad went from flood-proof to frequently submerged in a century",
+      "publisher": "ThePrint",
+      "url": "https://theprint.in/india/governance/how-hyderabad-went-from-flood-proof-to-frequently-submerged-in-a-century/529470/"
+    },
+    {
+      "title": "Osman Sagar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Osman_Sagar"
+    },
+    {
+      "title": "Himayat Sagar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Himayat_Sagar"
+    },
+    {
+      "title": "M. Visvesvaraya",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/M._Visvesvaraya"
+    },
+    {
+      "title": "Weather radar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Weather_radar"
+    },
+    {
+      "title": "Early foundations of the measurement of rainfall by radar",
+      "publisher": "American Meteorological Society (Springer)",
+      "url": "https://link.springer.com/chapter/10.1007/978-1-935704-15-7_12"
+    },
+    {
+      "title": "The Thunderstorm Project: when pilots flew into thunderstorms, intentionally",
+      "publisher": "US National Weather Service Heritage",
+      "url": "https://vlab.noaa.gov/web/nws-heritage/-/the-thunderstorm-project-when-pilots-flew-into-thunderstorms-...-intentionally"
+    },
+    {
+      "title": "Thunderstorms and the Thunderstorm Project (Roscoe R. Braham Jr.)",
+      "publisher": "National Weather Association Digest",
+      "url": "http://nwafiles.nwas.org/digest/papers/1997/Vol21No3/Pg24-Braham.pdf"
+    },
+    {
+      "title": "Horace R. Byers",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Horace_R._Byers"
+    },
+    {
+      "title": "Roscoe Braham Jr., pioneering meteorologist, 1921-2017",
+      "publisher": "University of Chicago News",
+      "url": "https://news.uchicago.edu/story/roscoe-braham-jr-pioneering-meteorologist-1921-2017"
+    },
+    {
+      "title": "A world record rainfall rate at Holt, Missouri: was it due to cold frontogenesis aloft?",
+      "publisher": "Weather and Forecasting (American Meteorological Society)",
+      "url": "https://journals.ametsoc.org/view/journals/wefo/10/4/1520-0434_1995_010_0779_awrrra_2_0_co_2.xml"
+    },
+    {
+      "title": "Who knew? Missouri town holds world record for rainfall",
+      "publisher": "Columbia Missourian",
+      "url": "https://www.columbiamissourian.com/news/who-knew-missouri-town-holds-world-record-for-rainfall/article_622bd2b8-0114-51f8-9d1b-779be4c904bb.html"
+    },
+    {
+      "title": "Recent and past floods in the Alaknanda valley: causes and consequences",
+      "publisher": "Current Science",
+      "url": "https://www.currentscience.ac.in/Volumes/105/09/1209.pdf"
+    },
+    {
+      "title": "Environmentalist Chandi Prasad Bhatt recalls the 1970 catastrophic floods in the Alaknanda river",
+      "publisher": "Scroll.in",
+      "url": "https://scroll.in/article/1057987/environmentalist-chandi-prasad-bhatt-recalls-the-1970-catastrophic-floods-in-the-alaknanda-river"
+    },
+    {
+      "title": "The 1972 Black Hills-Rapid City flood revisited (Fact Sheet 037-02)",
+      "publisher": "US Geological Survey",
+      "url": "https://pubs.usgs.gov/fs/fs-037-02/pdf/fs-037.pdf"
+    },
+    {
+      "title": "The Black Hills flood of 1972",
+      "publisher": "US National Weather Service, Rapid City",
+      "url": "https://www.weather.gov/unr/1972-06-09"
+    },
+    {
+      "title": "1972 Black Hills flood",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1972_Black_Hills_flood"
+    },
+    {
+      "title": "1976 Big Thompson flood, Colorado: thirty years later (Fact Sheet 2006-3095)",
+      "publisher": "US Geological Survey",
+      "url": "https://pubs.usgs.gov/fs/2006/3095/pdf/FS06-3095_508.pdf"
+    },
+    {
+      "title": "1976 Big Thompson River flood",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/1976_Big_Thompson_River_flood"
+    },
+    {
+      "title": "The Big Thompson disaster: reverberations of a flash flood, 40 years later",
+      "publisher": "Weather Underground",
+      "url": "https://www.wunderground.com/blog/JeffMasters/the-big-thompson-disaster-reverberations-of-a-flash-flood-40-years-l.html"
+    },
+    {
+      "title": "NEXRAD / WSR-88D history",
+      "publisher": "NOAA Radar Operations Center",
+      "url": "https://www.roc.noaa.gov/public-documents/wsr88d/roc-nexrad-history.pdf"
+    },
+    {
+      "title": "NEXRAD",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/NEXRAD"
+    },
+    {
+      "title": "Flash flood forecasting: an ingredients-based methodology (Doswell, Brooks and Maddox 1996)",
+      "publisher": "Weather and Forecasting, via Semantic Scholar",
+      "url": "https://www.semanticscholar.org/paper/Flash-Flood-Forecasting:-An-Ingredients-Based-Doswell-Brooks/df1f15fea8ea2973114957350e84f7306627c3d7"
+    },
+    {
+      "title": "Charles A. Doswell III",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Charles_A._Doswell_III"
+    },
+    {
+      "title": "Beloved meteorologist, fearless storm chaser Chuck Doswell remembered for legacy in weather",
+      "publisher": "OU Daily",
+      "url": "https://www.oudaily.com/news/chuck-doswell-meteorologist-storm-chaser-remembered-legacy-weather/article_8f142374-e011-11ef-957f-233dc278ca93.html"
+    },
+    {
+      "title": "Urban floods: case study of Mumbai",
+      "publisher": "National Institute of Disaster Management journal",
+      "url": "https://nidm.gov.in/journal/PDF/Journal/Journal20092/Journal20092b.pdf"
+    },
+    {
+      "title": "Maharashtra floods of 2005",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Maharashtra_floods_of_2005"
+    },
+    {
+      "title": "2010 Ladakh floods",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2010_Ladakh_floods"
+    },
+    {
+      "title": "Reconstruction of a major storm event from its geomorphic signature: the Ladakh floods, 6 August 2010 (Hobley, Sinclair and Mudd 2012)",
+      "publisher": "Geology (Geological Society of America)",
+      "url": "https://pubs.geoscienceworld.org/gsa/geology/article-abstract/40/6/483/130863/Reconstruction-of-a-major-storm-event-from-its"
+    },
+    {
+      "title": "Study of cloudburst and flash floods around Leh, India, during August 4-6, 2010 (Thayyen and others 2013)",
+      "publisher": "Natural Hazards, via ResearchGate",
+      "url": "https://www.researchgate.net/publication/235634152_Study_of_cloudburst_and_flash_floods_around_Leh_India_during_August_4-6_2010"
+    },
+    {
+      "title": "2013 North India floods",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2013_North_India_floods"
+    },
+    {
+      "title": "Kedarnath disaster: facts and plausible causes (Dobhal and others 2013)",
+      "publisher": "Current Science, via ResearchGate",
+      "url": "https://www.researchgate.net/publication/269696415_Kedarnath_disaster_Facts_and_plausible_causes"
+    },
+    {
+      "title": "India: Uttarakhand disaster, June 2013. Joint rapid damage and needs assessment report",
+      "publisher": "World Bank, Asian Development Bank and Government of Uttarakhand",
+      "url": "https://documents1.worldbank.org/curated/en/322951468041658053/pdf/826430WP0P146600Box379864B00PUBLIC0.pdf"
+    },
+    {
+      "title": "A study on the heavy rainfall event around Kedarnath area (Uttarakhand) on 16 June 2013",
+      "publisher": "Journal of Earth System Science (Indian Academy of Sciences)",
+      "url": "https://www.ias.ac.in/article/fulltext/jess/124/07/1531-1544"
+    },
+    {
+      "title": "Cloudbursts in Indian Himalayas: a review (Dimri and others 2017)",
+      "publisher": "Earth-Science Reviews (Elsevier)",
+      "url": "https://doi.org/10.1016/j.earscirev.2017.03.006"
+    },
+    {
+      "title": "Statistical characteristics of cloud burst and mini-cloud burst events during monsoon season in India (Deshpande and others 2018)",
+      "publisher": "International Journal of Climatology (Royal Meteorological Society)",
+      "url": "https://rmets.onlinelibrary.wiley.com/doi/10.1002/joc.5560"
+    },
+    {
+      "title": "Short, heavy spells get a new name",
+      "publisher": "Science Chronicle",
+      "url": "https://sciencechronicle.in/2018/07/24/iitm-mini-cloud-burst/"
+    },
+    {
+      "title": "Frequently asked questions (FAQs) on monsoon (question 46: What is cloud burst?)",
+      "publisher": "India Meteorological Department",
+      "url": "https://mausam.imd.gov.in/imd_latest/monsoonfaq.pdf"
+    },
+    {
+      "title": "What are cloudbursts, why do they occur and how can cloudburst risks be reduced? (explainer)",
+      "publisher": "Mongabay India",
+      "url": "https://india.mongabay.com/2025/08/what-are-cloudbursts-why-do-they-occur-and-how-can-cloudburst-risks-be-reduced-explainer/"
+    },
+    {
+      "title": "South Asia Flash Flood Guidance System launched",
+      "publisher": "World Meteorological Organization",
+      "url": "https://wmo.int/media/news/south-asia-flash-flood-guidance-system-launched"
+    },
+    {
+      "title": "Flash Flood Guidance Services launched: the first of its kind for South Asian countries",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=1685411&reg=3&lang=2"
+    },
+    {
+      "title": "A massive rock and ice avalanche caused the 2021 disaster at Chamoli, Indian Himalaya (Shugar and others 2021)",
+      "publisher": "Science, record at US Geological Survey",
+      "url": "https://pubs.usgs.gov/publication/70221399"
+    },
+    {
+      "title": "2021 Uttarakhand flood",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2021_Uttarakhand_flood"
+    },
+    {
+      "title": "Doppler weather radar inaugurated at Kufri",
+      "publisher": "The Tribune",
+      "url": "https://www.tribuneindia.com/news/himachal/doppler-weather-radar-inaugurated-at-kufri-199032"
+    },
+    {
+      "title": "IMD Annual Report 2021",
+      "publisher": "India Meteorological Department",
+      "url": "https://mausam.imd.gov.in/imd_latest/contents/ar2021.pdf"
+    },
+    {
+      "title": "Dr Jitendra Singh inaugurates Doppler Weather Radar and indigenous GPS based Pilot Sonde at IMD, Jammu",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1752362&reg=48&lang=2"
+    },
+    {
+      "title": "Dr. Jitendra Singh inaugurates Doppler Weather Radar at Leh",
+      "publisher": "Reach Ladakh",
+      "url": "https://www.reachladakh.com/news/social-news/dr-jitendra-singh-inaugurates-doppler-weather-radar-at-leh"
+    },
+    {
+      "title": "Entire country will be covered by Doppler Weather Radar network by 2025 (IMD 148th Foundation Day, 15 January 2023)",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=1891433&reg=48&lang=2"
+    },
+    {
+      "title": "Kiren Rijiju inaugurates Doppler radar in Uttarakhand's Lansdowne",
+      "publisher": "LatestLY (agency report)",
+      "url": "https://www.latestly.com/agency-news/india-news-kiren-rijiju-inaugurates-doppler-radar-in-uttarakhands-lansdowne-5779324.html"
+    },
+    {
+      "title": "2022 Amarnath floods",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2022_Amarnath_floods"
+    },
+    {
+      "title": "Amarnath flash floods may be due to highly localised rain event, not cloudburst: IMD",
+      "publisher": "India TV News (agency report)",
+      "url": "https://www.indiatvnews.com/news/india/amarnath-flash-floods-may-be-due-to-highly-localised-rain-event-not-cloudburst-imd-latest-updates-2022-07-09-790800"
+    },
+    {
+      "title": "Heavy rainfall-triggered flash floods around the Amarnath holy cave",
+      "publisher": "Journal of the Geological Society of India",
+      "url": "https://pubs.geoscienceworld.org/geosocindia/jour-geosocindia/article/98/9/1323/632754/Heavy-Rainfall-triggered-Flash-Floods-around-the"
+    },
+    {
+      "title": "Geospatial and statistical assessment of monsoon-induced disasters in Himachal Pradesh: insights from the 2023 floods and landslides",
+      "publisher": "Taylor and Francis (journal article)",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/27669645.2025.2543099"
+    },
+    {
+      "title": "Monsoon left widespread destruction and uneasy questions in Himachal",
+      "publisher": "Mongabay India",
+      "url": "https://india.mongabay.com/2023/09/monsoon-left-widespread-destruction-and-uneasy-questions-in-himachal/"
+    },
+    {
+      "title": "Preliminary assessment of the Shiv Bawdi landslide in Shimla, Himachal Pradesh, India",
+      "publisher": "Landslides (Springer)",
+      "url": "https://link.springer.com/article/10.1007/s10346-024-02234-8"
+    },
+    {
+      "title": "7 killed in cloudburst in Himachal Pradesh's Solan",
+      "publisher": "The Tribune",
+      "url": "https://www.tribuneindia.com/news/himachal/7-killed-in-cloudburst-in-himachal-pradeshs-solan-535005"
+    },
+    {
+      "title": "Sequence of events that led to the South Lhonak lake outburst flood in Sikkim, India",
+      "publisher": "Scientific Reports (Nature)",
+      "url": "https://www.nature.com/articles/s41598-026-35895-7"
+    },
+    {
+      "title": "Sikkim glacial lake outburst flood: international study",
+      "publisher": "Newcastle University",
+      "url": "https://www.ncl.ac.uk/press/articles/latest/2025/01/sikkimglof"
+    },
+    {
+      "title": "2025 Uttarakhand flash flood",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2025_Uttarakhand_flash_flood"
+    },
+    {
+      "title": "The cause of the 5 August 2025 Dharali disaster in India",
+      "publisher": "The Landslide Blog (Eos, AGU)",
+      "url": "https://eos.org/thelandslideblog/dharali-disaster-in-india"
+    },
+    {
+      "title": "Flash flood in the Himalayas reignites debate on development",
+      "publisher": "Mongabay India",
+      "url": "https://india.mongabay.com/2025/08/another-flash-flood-in-the-himalayas-reignites-debate-on-development/"
+    },
+    {
+      "title": "Hydro-meteorological analysis of the Dharali-Uttarkashi flash flood event of 05 August 2025",
+      "publisher": "Landslides (Springer)",
+      "url": "https://link.springer.com/article/10.1007/s10346-026-02747-4"
+    },
+    {
+      "title": "2025 Kishtwar district flash flood",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2025_Kishtwar_district_flash_flood"
+    },
+    {
+      "title": "J&K cloudburst: death toll rises to 65, search and rescue operations enter eighth day in Kishtwar",
+      "publisher": "All India Radio News (News On AIR)",
+      "url": "https://www.newsonair.gov.in/jk-cloudburst-death-toll-rises-to-65-search-and-rescue-operations-enter-eighth-day-in-kishtwar"
+    },
+    {
+      "title": "Kishtwar cloudburst exposes laxity in response to weather warnings in Jammu Kashmir",
+      "publisher": "ETV Bharat",
+      "url": "https://www.etvbharat.com/en/!bharat/kishtwar-cloudburst-exposes-laxity-in-response-to-weather-warnings-in-jammu-kashmir-enn25082003499"
+    },
+    {
+      "title": "Govt launches Cell Broadcast Alert System for real-time disaster warnings",
+      "publisher": "IANS",
+      "url": "https://ianslive.in/govt-launches-cell-broadcast-alert-system-for-real-time-disaster-warnings--20260502131531"
+    },
+    {
+      "title": "Govt launches Cell Broadcast System",
+      "publisher": "Manorama Yearbook",
+      "url": "https://www.manoramayearbook.in/current-affairs/india/2026/05/04/cell-broadcast-system-alert-message-explained.html"
+    },
+    {
+      "title": "IT and communication projects (Common Alerting Protocol based integrated alert system)",
+      "publisher": "National Disaster Management Authority",
+      "url": "https://ndma.gov.in/Capacity_Building/Ops_Comm/IT_Comm_Project"
+    },
+    {
+      "title": "Floods: do's and don'ts",
+      "publisher": "National Disaster Management Authority",
+      "url": "https://ndma.gov.in/Natural-Hazards/Floods/Do-Donts"
+    },
+    {
+      "title": "Contact us (NDMA control room and helpline 1078)",
+      "publisher": "National Disaster Management Division, Ministry of Home Affairs",
+      "url": "https://ndmindia.mha.gov.in/ndmi/contact-us"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "cloudburstclear",
+  "box": 111,
+  "date": "2026-10-10",
+  "title": "CloudburstClear",
+  "question": "How does a cloudburst happen?",
+  "hook": "No cloud ever bursts. A cloudburst is a storm whose rising air holds tens of thousands of tonnes of water in the sky and then lets it fall on one small valley: 100 mm in an hour. Fill a rain gauge, hold water aloft and drop it, push monsoon wind up a Himalayan slope, watch a stream become a torrent in minutes, and learn why the only safe move is uphill.",
+  "thumbText": "HOW A CLOUDBURST WORKS",
+  "field": "nature",
+  "minutes": 16,
+  "tags": [
+    "cloudburst",
+    "flash flood",
+    "rain",
+    "monsoon",
+    "orographic lift",
+    "Himalaya",
+    "debris flow",
+    "Doppler radar",
+    "rain gauge",
+    "precipitable water",
+    "IMD",
+    "disaster safety",
+    "nature",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "An hour of rain like a month",
+      "text": "The India Meteorological Department calls it a cloudburst when a place gets 100 mm of rain or more in one hour. That is 100 litres on every square metre, usually over a patch of only 20 to 30 square kilometres. Leh normally gets about that much in a year. A heavy monsoon day can bring the same 100 mm, but spread over 24 hours."
+    },
+    {
+      "title": "No cloud bursts",
+      "text": "A cloud is not a bag of water. A big raindrop falls at about 8 metres a second, so an updraft rising that fast holds it up. A strong storm can hold tens of millimetres of water aloft, tens of thousands of tonnes over each square kilometre. When the updraft weakens or the load gets too heavy, it falls together. The whole column of monsoon air holds only 50 to 70 mm of vapour, so the storm must keep pulling moist air in."
+    },
+    {
+      "title": "Why mountains make them",
+      "text": "Rain at one place is the rate times how long it lasts. A 10 m/s monsoon wind meeting a 20° slope is forced up at more than 3 m/s, which wrings out over 100 mm an hour. On the plains that storm drifts on and a village gets 20 mm. In a valley it stalls, and one place takes the whole hour."
+    },
+    {
+      "title": "From sky to stream",
+      "text": "Thin soil soaks up perhaps 15 mm an hour. In a cloudburst the other 85 runs off. On a steep 10 square kilometre catchment it all reaches the valley mouth in about 23 minutes: more than 200 cubic metres a second in a stream you could step across. In steep gullies it picks up mud and boulders and becomes a debris flow."
+    },
+    {
+      "title": "Hard to see coming",
+      "text": "A cloudburst is a few kilometres wide and over within the hour. With rain gauges 30 km apart, a 5 km storm lands on one only about 2 times in 100, and a forecast model with a 12 km grid cannot draw it. Doppler weather radar sees the storm itself out to about 100 km, which allows a warning an hour or two ahead. A glacial lake outburst flood and widespread extreme rain are different things."
+    },
+    {
+      "title": "India, and staying safe",
+      "text": "Leh 2010, Kedarnath 2013, Amarnath 2022, Himachal Pradesh 2023, Dharali and Chashoti 2025: the storms are old, but more roads, hotels and camps now stand in stream beds and on fans. Never camp or build in a stream bed. Heed IMD red alerts. At a sudden roar or a muddy rise in the stream, move uphill at once, away from the channel. Emergency 112, NDMA 1078."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Cloudburst",
+      "def": "Rain of 100 mm or more in one hour at a place, usually over only a few kilometres (IMD)."
+    },
+    {
+      "term": "Rain rate",
+      "def": "How fast rain falls, in millimetres an hour. One millimetre is one litre on every square metre."
+    },
+    {
+      "term": "Updraft",
+      "def": "The rising air inside a storm. If it rises as fast as raindrops fall, it holds them up."
+    },
+    {
+      "term": "Precipitable water",
+      "def": "The depth of water you would get by condensing all the vapour in the air above a place."
+    },
+    {
+      "term": "Orographic lift",
+      "def": "Air forced to rise because a mountain is in its way."
+    },
+    {
+      "term": "Run-off",
+      "def": "Rain that falls faster than the ground can soak it up and flows over the surface."
+    },
+    {
+      "term": "Flash flood",
+      "def": "A flood that rises within minutes to a few hours of the rain that causes it."
+    },
+    {
+      "term": "Debris flow",
+      "def": "A fast flow of water thick with mud, rock and wood, usually down a steep gully."
+    },
+    {
+      "term": "Nowcast",
+      "def": "A forecast for the next few hours, made from what radars, satellites and gauges see right now."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "cloudburstclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

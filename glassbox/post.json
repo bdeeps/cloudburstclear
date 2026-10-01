@@ -1,0 +1,126 @@
+{
+  "slug": "cloudburstclear",
+  "box": 111,
+  "question": "How does a cloudburst happen?",
+  "url": "https://glassbox.how/e/cloudburstclear/",
+  "app": "https://glassbox.how/cloudburstclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From a word for a bursting cloud to radars on Himalayan ridges: how people learned what a cloudburst really is, and how to get out of its way.\n\n1817: The word 'cloudburst' appears\n1908: The Musi floods Hyderabad\n1946: The Thunderstorm Project\n1947: Holt, Missouri: 305 mm in 42 minutes\n1976: The Big Thompson Canyon flood\n1996: The ingredients of a flash flood\n\nThe full story, with 29 moments, sources and charts: glassbox.how/e/cloudburstclear/history (link in bio)\n\nThen play with how it works: glassbox.how/cloudburstclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #cloudburst #flashflood #rain #monsoon #orographiclift #himalaya #history",
+      "youtube": {
+        "title": "The history of understanding cloudbursts in 45 seconds #shorts",
+        "description": "From a word for a bursting cloud to radars on Himalayan ridges: how people learned what a cloudburst really is, and how to get out of its way.\n\n1817 · The word 'cloudburst' appears\n1908 · The Musi floods Hyderabad (M. Visvesvaraya)\n1946 · The Thunderstorm Project (Horace Byers and Roscoe Braham)\n1947 · Holt, Missouri: 305 mm in 42 minutes\n1976 · The Big Thompson Canyon flood\n1996 · The ingredients of a flash flood (Charles Doswell, Harold Brooks and Robert Maddox)\n\n▶ Full history: https://glassbox.how/e/cloudburstclear/history/\n▶ Play with it: https://glassbox.how/e/cloudburstclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a cloudburst happen?\n\nNo cloud ever bursts. A cloudburst is a storm whose rising air holds tens of thousands of tonnes of water in the sky and then lets it fall on one small valley: 100 mm in an hour. Fill a rain gauge, hold water aloft and drop it, push monsoon wind up a Himalayan slope, watch a stream become a torrent in minutes, and learn why the only safe move is uphill.\n\n→ A cloudburst is 100 mm of rain in one hour, on a patch only a few kilometres wide.\n→ That is 100 litres on every square metre. A drizzle would need four days to match it.\n→ No cloud bursts like a bag. Fast rising air holds tens of thousands of tonnes of water in the sky.\n→ When the updraft weakens, the water it was holding falls together, in minutes, on one small place.\n→ Mountains make them: moist monsoon wind is forced up a steep slope, and the valley holds the storm in place.\n\nPlay with it yourself. It's free and open source: glassbox.how/cloudburstclear (link in bio)\n\nBox No. 111 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #cloudburst #flashflood #rain #monsoon #orographiclift #himalaya #debrisflow #dopplerradar #raingauge",
+    "carousel": "Swipe through: How does a cloudburst happen?\n\nNo cloud ever bursts. A cloudburst is a storm whose rising air holds tens of thousands of tonnes of water in the sky and then lets it fall on one small valley: 100 mm in an hour. Fill a rain gauge, hold water aloft and drop it, push monsoon wind up a Himalayan slope, watch a stream become a torrent in minutes, and learn why the only safe move is uphill.\n\nSave this for later, then play with the interactive version at glassbox.how/cloudburstclear (link in bio).\n\nBox No. 111 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #cloudburst #flashflood #rain #monsoon #orographiclift #himalaya",
+    "youtube": {
+      "title": "How does a cloudburst happen? #shorts",
+      "description": "No cloud ever bursts. A cloudburst is a storm whose rising air holds tens of thousands of tonnes of water in the sky and then lets it fall on one small valley: 100 mm in an hour. Fill a rain gauge, hold water aloft and drop it, push monsoon wind up a Himalayan slope, watch a stream become a torrent in minutes, and learn why the only safe move is uphill.\n\n▶ Play with it: https://glassbox.how/e/cloudburstclear/\n⌘ Source code (MIT): https://github.com/bdeeps/cloudburstclear\n\nBox No. 111 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a cloudburst happen? (interactive explainer)",
+      "description": "No cloud ever bursts. A cloudburst is a storm whose rising air holds tens of thousands of tonnes of water in the sky and then lets it fall on one small valley: 100 mm in an hour. Fill a rain gauge, hold water aloft and drop it, push monsoon wind up a Himalayan slope, watch a stream become a torrent in minutes, and learn why the only safe move is uphill.\n\n▶ Play with the interactive version: https://glassbox.how/e/cloudburstclear/\n⌘ Source code (MIT): https://github.com/bdeeps/cloudburstclear\n\nIn this video:\n• An hour of rain like a month. The India Meteorological Department calls it a cloudburst when a place gets 100 mm of rain or more in one hour.\n• No cloud bursts. A cloud is not a bag of water.\n• Why mountains make them. Rain at one place is the rate times how long it lasts.\n• From sky to stream. Thin soil soaks up perhaps 15 mm an hour.\n• Hard to see coming. A cloudburst is a few kilometres wide and over within the hour.\n• India, and staying safe. Leh 2010, Kedarnath 2013, Amarnath 2022, Himachal Pradesh 2023, Dharali and Chashoti 2025: the storms are old, but more roads, hotels and camps now stand in stream beds and on fans.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a cloudburst happen?\n\nNo cloud ever bursts.\n\nPlay with it: https://glassbox.how/e/cloudburstclear/",
+    "linkedin": "How does a cloudburst happen?\n\nNo cloud ever bursts. A cloudburst is a storm whose rising air holds tens of thousands of tonnes of water in the sky and then lets it fall on one small valley: 100 mm in an hour. Fill a rain gauge, hold water aloft and drop it, push monsoon wind up a Himalayan slope, watch a stream become a torrent in minutes, and learn why the only safe move is uphill.\n\n1. An hour of rain like a month\n2. No cloud bursts\n3. Why mountains make them\n4. From sky to stream\n5. Hard to see coming\n6. India, and staying safe\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 111 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/cloudburstclear/\nCode: https://github.com/bdeeps/cloudburstclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-02T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-01T19:49:54.371Z"
+}
